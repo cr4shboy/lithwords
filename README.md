@@ -1,8 +1,8 @@
 # lithwords
 Lithuanian words | Lietuviški žodžiai
 
-Lithuanian word so use with John The Ripper mangle rules
-Rules are simple, while effective to crack most simple passwords, which, in most cases, uses vast majority of users
+Lithuanian words to use with John The Ripper mangle rules.
+Rules are simple, while effective to crack most simple passwords, which, in most cases, uses vast majority of users.
 ```
 File notations:
   lc - lower case
